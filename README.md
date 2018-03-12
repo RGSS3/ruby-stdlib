@@ -1,8 +1,13 @@
 # Ruby::Stdlib
 
+install
+-------
 ```
 gem install ruby-stdlib
 ```
+
+usage
+---------
 
 ```ruby
  require 'ruby/stdlib'

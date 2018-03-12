@@ -10,7 +10,7 @@ usage
 ---------
 
 ```ruby
- require 'ruby/stdlib'
+require 'ruby/stdlib'
 ```
 
 Then you get stdlib's CSV, JSON, NET::HTTP, etc autoimported.
